@@ -20,9 +20,7 @@
 # 🧰 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,git,github,vscode,linux,nodejs,mysql" />
-
 </p>
 
 ---
@@ -30,11 +28,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monaserr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaserr&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -42,9 +37,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=monaserr&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -52,9 +45,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=monaserr&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -62,9 +53,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -72,11 +61,18 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/monaserr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
+<a href="https://www.linkedin.com/in/mohamed-nasser-9588a533b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/201061964236">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://t.me/+201061964236">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -84,9 +80,7 @@
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=monaserr&label=Profile%20Views&color=blue&style=flat"/>
-
 </p>
 
 ---
