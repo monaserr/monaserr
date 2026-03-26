@@ -1,93 +1,123 @@
 <div align="center">
-  <img src="https://avatars.dicebear.com/api/bottts/monaserr.svg" width="120" style="border-radius: 50%"/>
 
-  <h1>Mohamed Nasser</h1>
-  <p><b>Web Developer</b> &nbsp;·&nbsp; Computing & Bioinformatics Student</p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7C59F,100:FF6B35&height=200&section=header&text=Mohamed%20Nasser&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Computing%20%26%20Bioinformatics&descAlignY=58&descAlign=50" />
 
-  <a href="https://github.com/monaserr">
-    <img src="https://img.shields.io/badge/GitHub-monaserr-181717?style=flat-square&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-nasser-9588a533b">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Nasser-0A66C2?style=flat-square&logo=linkedin"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/qr/QRX3RHEVJUXXO1">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%F0%9F%92%BB;Computing+%26+Bioinformatics+Student+%F0%9F%8E%93;Building+Modern+Web+Apps+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### About
+## 🚀 About Me
 
-Full-stack web developer with a passion for clean code and thoughtful interfaces.  
-Currently studying Computing & Bioinformatics — where data meets biology meets code.
-
----
-
-### Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Bioinformatics**
-
-![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+```javascript
+const mohamed = {
+  🎓 education   : "Computing & Bioinformatics",
+  💻 passion     : "Modern Web Development",
+  🔥 goal        : "Build things that matter",
+  ☕ fuel        : "Coffee + Code + Curiosity",
+  📍 location    : "Egypt 🇪🇬",
+};
+```
 
 ---
 
-### GitHub Stats
+## 🧰 Tech Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=monaserr&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=111&icon_color=111&text_color=555"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaserr&layout=compact&hide_border=true&theme=default&title_color=111&text_color=555"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monaserr&hide_border=true&theme=default&ring=111&fire=111&currStreakLabel=111"/>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-### Contribution Snake
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B35&title_color=FF6B35&icon_color=FF6B35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&border_color=FF6B35&title_color=FF6B35"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-> To activate the snake → add the GitHub Action from [Platane/snk](https://github.com/Platane/snk)
+> ⚡ To activate the snake, add this GitHub Action to your repo:  
+> `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF6B35&style=for-the-badge" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=monaserr&style=flat-square&color=555&label=visitors"/>
-  <br/><br/>
-  <sub>⭐ Mohamed Nasser · monaserr</sub>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7C59F,100:FF6B35&height=120&section=footer"/>
+
+### ⭐ From [Mohamed Nasser](https://github.com/YOUR_USERNAME)
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
 </div>
