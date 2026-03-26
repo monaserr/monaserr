@@ -1,70 +1,96 @@
-# 👋 Hi, I'm Mohamed Nasser
+<h1 align="center">Hi 👋, I'm Mohamed Nasser</h1>
 
-💻 **Web Developer**
-🎓 Computing & Bioinformatics Student — Benha University
+<h3 align="center">💻 Web Developer | Computing & Bioinformatics Student</h3>
 
----
-
-## 🚀 About Me
-
-I’m a passionate web developer who enjoys building modern and interactive web applications.
-
-* 🌱 Currently learning **Full Stack Development**
-* 💡 Interested in **Web Technologies & Software Engineering**
-* 🧠 Love solving problems and building projects
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Engineer;Building+Modern+Web+Apps;Welcome+to+my+GitHub" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+# 🚀 About Me
 
-### Frontend
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-### Programming
-
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
+* 🎓 Student at **Benha University**
+* 💻 Passionate **Web Developer**
+* 🚀 Learning **Full Stack Development**
+* 🧠 Love building **modern web applications**
 
 ---
 
-## 📊 GitHub Stats
+# 🧰 Tech Stack
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=monaserr\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,git,github,vscode,linux,nodejs,mysql" />
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monaserr\&theme=tokyonight)
+</p>
 
 ---
 
-## 🧠 Top Languages
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monaserr\&layout=compact\&theme=tokyonight)
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=monaserr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaserr&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=monaserr\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/monaserr)
+</p>
 
 ---
 
-⭐ From **Mohamed Nasser**
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monaserr&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=monaserr&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/monaserr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=monaserr&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+🔥 Built with passion by <b>Mohamed Nasser</b>
+</p>
