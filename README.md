@@ -1,4 +1,4 @@
-د# Hi, I'm Mohamed Nasser 👋
+#Hi, I'm Mohamed Nasser 👋
 
 🚀 Full Stack Web Developer | React & Node.js Engineer  
 🧬 Computing & Bioinformatics Engineering Student (GPA: 3.74/4.0)  
@@ -55,7 +55,7 @@ Real-world websites delivered for clients with responsive UI and SEO optimizatio
 
 ## 📫 Contact Me
 
-- Email: mohamed.nasser.dev@gmail.com  
+- Email: monaserrrrrr@gmail.com  
 - LinkedIn: linkedin.com/in/mohamed-nasser-9588a533b  
 - GitHub: github.com/monaserr  
 
