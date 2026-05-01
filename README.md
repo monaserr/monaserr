@@ -1,90 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nasser</h1>
+د# Hi, I'm Mohamed Nasser 👋
 
-<h3 align="center">💻 Web Developer | Computing & Bioinformatics Student</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Full+stack+Engineer;Building+Modern+Web+Apps;Welcome+to+my+GitHub" />
-</p>
+🚀 Full Stack Web Developer | React & Node.js Engineer  
+🧬 Computing & Bioinformatics Engineering Student (GPA: 3.74/4.0)  
+📍 Cairo, Egypt  
 
 ---
 
-# 🚀 About Me
+## 💡 About Me
 
-* 🎓 Student at **Benha University**
-* 💻 Passionate **Web Developer**
-* 🚀 Learning **Full Stack Development**
-* 🧠 Love building **modern web applications**
+I am a Full Stack Developer focused on building scalable web applications using modern JavaScript technologies.  
+I specialize in developing real-world systems including e-commerce platforms, bioinformatics tools, and client-based web solutions.
 
 ---
 
-# 🧰 Tech Stack
+## 🔥 What I Do
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,git,github,vscode,linux,nodejs,mysql" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=monaserr&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaserr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- 🌐 Build full-stack web applications (MERN stack)
+- ⚙️ Design RESTful APIs with Node.js & Express
+- 🧠 Work on bioinformatics and data-driven systems
+- 🚀 Deploy scalable applications on cloud platforms
+- 🎯 Focus on performance, clean code, and UX
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monaserr&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=monaserr&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+**Frontend:** React, Vite, HTML5, CSS3, JavaScript  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Linux, VS Code  
+**Cloud:** Firebase, Vercel, Railway, Render  
+**Languages:** JavaScript, Python, C++, Java  
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/monaserr/monaserr/output/github-contribution-grid-snake.svg"/>
-</p>
+### 🛒 Rfouf – E-Commerce Platform
+Full-stack Arabic e-commerce platform with authentication, orders, and admin system.
 
----
+### 🧬 GenByte Hub – Bioinformatics Platform
+Full-stack system combining web development with bioinformatics data processing.
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/monaserr">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-nasser-9588a533b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/201061964236">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://t.me/+201061964236">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-</p>
+### 💼 Freelance Client Projects
+Real-world websites delivered for clients with responsive UI and SEO optimization.
 
 ---
 
-# 👀 Profile Views
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=monaserr&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monaserr&show_icons=true&theme=radical)
 
 ---
 
-<p align="center">
-🔥 Built with passion by <b>Mohamed Nasser</b>
-</p>
+## 📫 Contact Me
+
+- Email: mohamed.nasser.dev@gmail.com  
+- LinkedIn: linkedin.com/in/mohamed-nasser-9588a533b  
+- GitHub: github.com/monaserr  
+
+---
+
+⭐ Always learning, always building.
